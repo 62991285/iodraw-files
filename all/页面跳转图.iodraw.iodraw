@@ -131,7 +131,10 @@
           <mxGeometry x="433" y="410" width="157" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-61" value="打开室内导航" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="214.5" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pAAPuJA0eshOeonT42YV-63" value="跳转&lt;u&gt;#04院内导航&lt;/u&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
