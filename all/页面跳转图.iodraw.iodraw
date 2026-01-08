@@ -45,13 +45,14 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-29" value="&lt;u&gt;01#AI聊天主页面&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pAAPuJA0eshOeonT42YV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1027" y="320" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="pAAPuJA0eshOeonT42YV-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-31" target="pAAPuJA0eshOeonT42YV-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-31" value="完成挂号缴费" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pAAPuJA0eshOeonT42YV-37" value="是否需要医院导航" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1047" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
