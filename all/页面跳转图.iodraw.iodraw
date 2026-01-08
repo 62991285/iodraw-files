@@ -57,7 +57,7 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-37" value="是否需要医院导航" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1047" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pAAPuJA0eshOeonT42YV-39" value="跳转&lt;u&gt;#03医院导航&lt;/u&gt;页面" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pAAPuJA0eshOeonT42YV-39" value="跳转&lt;u&gt;#03医院导航&lt;/u&gt;页面，开始导航" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1187" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
