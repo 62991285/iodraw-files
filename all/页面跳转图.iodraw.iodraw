@@ -91,13 +91,22 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-47" target="pAAPuJA0eshOeonT42YV-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1490" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1490" y="550" />
+              <mxPoint x="987" y="550" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-47" value="是否需要院内导航" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1450" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-49" target="pAAPuJA0eshOeonT42YV-52">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="470" />
+              <mxPoint x="1140" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-49" value="跳转&lt;u&gt;#04院内导航&lt;/u&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1170" y="440" width="120" height="60" as="geometry" />
