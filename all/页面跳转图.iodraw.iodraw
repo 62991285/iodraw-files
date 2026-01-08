@@ -35,7 +35,7 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-27" value="病人在文本框输入状况，AI给出判断" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pAAPuJA0eshOeonT42YV-29" value="AI聊天主页面" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pAAPuJA0eshOeonT42YV-29" value="1.AI聊天主页面" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="290" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
