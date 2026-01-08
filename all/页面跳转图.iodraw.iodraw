@@ -33,7 +33,7 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-15" value="&lt;font size=&quot;3&quot;&gt;AI对话页面&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pAAPuJA0eshOeonT42YV-18" value="&#xa;g" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pAAPuJA0eshOeonT42YV-18" value="挂号" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
