@@ -118,8 +118,14 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-52" value="患者到达科室，完成与医生诊断" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="927" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pAAPuJA0eshOeonT42YV-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-54" target="pAAPuJA0eshOeonT42YV-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-54" value="是否需要开处方？（小程序直接获取医生诊断结果）" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="410" width="157" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pAAPuJA0eshOeonT42YV-57" value="是否需要开处方？（小程序直接获取医生诊断结果）" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="433" y="410" width="157" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
