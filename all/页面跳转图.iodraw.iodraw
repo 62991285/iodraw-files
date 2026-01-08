@@ -13,7 +13,8 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-7" target="pAAPuJA0eshOeonT42YV-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="340" />
+              <mxPoint x="370" y="340" />
+              <mxPoint x="370" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -30,7 +31,7 @@
           <mxGeometry x="650" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-15" value="&lt;font size=&quot;3&quot;&gt;AI对话页面&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-18" value="&lt;font size=&quot;3&quot;&gt;AI对话页面&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="160" width="120" height="80" as="geometry" />
