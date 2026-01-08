@@ -57,8 +57,14 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-37" value="是否需要医院导航" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1047" y="280" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pAAPuJA0eshOeonT42YV-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-39" target="pAAPuJA0eshOeonT42YV-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-39" value="跳转&lt;u&gt;#03医院导航&lt;/u&gt;页面，开始导航" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1187" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pAAPuJA0eshOeonT42YV-43" value="" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1387" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
