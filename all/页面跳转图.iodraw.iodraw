@@ -12,13 +12,13 @@
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="250" as="targetPoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
             <mxPoint x="280" y="310" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="260" y="310" />
               <mxPoint x="310" y="310" />
-              <mxPoint x="310" y="250" />
-              <mxPoint x="450" y="250" />
+              <mxPoint x="310" y="220" />
+              <mxPoint x="450" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
