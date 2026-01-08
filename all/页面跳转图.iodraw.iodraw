@@ -124,8 +124,14 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-54" value="是否需要开处方？（小程序直接获取医生诊断结果）" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="410" width="157" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="pAAPuJA0eshOeonT42YV-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-59" target="pAAPuJA0eshOeonT42YV-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-59" value="是否需要室内导航" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="433" y="410" width="157" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pAAPuJA0eshOeonT42YV-61" value="打开室内导航" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="214.5" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
