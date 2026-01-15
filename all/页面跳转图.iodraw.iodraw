@@ -1,14 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1500" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="pAAPuJA0eshOeonT42YV-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pAAPuJA0eshOeonT42YV-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="320" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-21" target="pAAPuJA0eshOeonT42YV-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -177,7 +172,7 @@
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-16" value="病人完成药学门诊或缴费" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="615" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tXA9o2u6BOHgXh7AwpQy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-20" target="pAAPuJA0eshOeonT42YV-21">
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-20" target="pAAPuJA0eshOeonT42YV-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-20" value="&#xa;&lt;u style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;01#AI聊天主页面&lt;/u&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
