@@ -118,9 +118,6 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-52" value="患者到达科室，完成与医生诊断" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="987" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pAAPuJA0eshOeonT42YV-60" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-54" target="pAAPuJA0eshOeonT42YV-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5fpYW5fyIkX2NAXOCcLk-2" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-54" target="5fpYW5fyIkX2NAXOCcLk-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -163,11 +160,11 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-68" value="病人离开医院" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pAAPuJA0eshOeonT42YV-73" value="一次会话结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="260" y="570" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="5fpYW5fyIkX2NAXOCcLk-1" value="一次会话结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="748.5" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-1" value="是否需要开处方？（小程序直接获取医生诊断结果）" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="410" width="157" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
