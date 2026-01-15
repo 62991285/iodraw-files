@@ -174,11 +174,14 @@
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-1" value="处方是否含高风险特征" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="410" width="157" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-5" target="tXA9o2u6BOHgXh7AwpQy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-5" value="推荐药学门诊" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tXA9o2u6BOHgXh7AwpQy-6" value="处方是否含高风险特征" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="420" width="157" height="120" as="geometry" />
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-6" value="患者是否接收建议" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="410" width="157" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
