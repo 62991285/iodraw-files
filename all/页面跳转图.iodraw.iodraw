@@ -137,8 +137,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-59" target="pAAPuJA0eshOeonT42YV-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-59" value="是否需要院内导航" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="670" width="157" height="120" as="geometry" />
+          <mxGeometry x="270" y="530" width="157" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-61" target="pAAPuJA0eshOeonT42YV-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -147,7 +150,7 @@
           <mxGeometry x="930" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-63" value="跳转&lt;u&gt;#04院内导航，导航至药房&lt;/u&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -174,7 +177,7 @@
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-5" value="推荐药学门诊" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tXA9o2u6BOHgXh7AwpQy-10" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-6">
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-10" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-6" target="pAAPuJA0eshOeonT42YV-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="590.0000000000002" as="targetPoint" />
           </mxGeometry>
