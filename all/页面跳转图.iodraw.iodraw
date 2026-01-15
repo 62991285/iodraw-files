@@ -163,7 +163,7 @@
             <mxPoint x="280" y="645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tXA9o2u6BOHgXh7AwpQy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-6" target="5fpYW5fyIkX2NAXOCcLk-1">
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-19" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-6" target="5fpYW5fyIkX2NAXOCcLk-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="88" y="730" />
@@ -179,6 +179,9 @@
         </mxCell>
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-16" value="病人完成药学门诊或缴费" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-20" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="47" y="170" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
