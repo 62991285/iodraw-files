@@ -174,7 +174,7 @@
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-1" value="处方是否含高风险特征" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="481.5" y="410" width="157" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tXA9o2u6BOHgXh7AwpQy-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-4" value="推荐药学门诊" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
