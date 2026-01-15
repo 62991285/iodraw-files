@@ -112,6 +112,9 @@
         <mxCell id="pAAPuJA0eshOeonT42YV-49" value="跳转&lt;u&gt;#04院内导航&lt;/u&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1230" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pAAPuJA0eshOeonT42YV-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-52" target="pAAPuJA0eshOeonT42YV-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-52" value="患者到达科室，完成与医生诊断" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="987" y="440" width="120" height="60" as="geometry" />
         </mxCell>
