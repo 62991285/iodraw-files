@@ -147,13 +147,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-61" value="病人到达药房，完成缴费" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="260" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-63" target="pAAPuJA0eshOeonT42YV-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-63" value="跳转&lt;u&gt;#04院内导航，导航至药房&lt;/u&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -188,6 +188,9 @@
         </mxCell>
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-9" value="推荐药学门诊" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-63" target="pAAPuJA0eshOeonT42YV-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
