@@ -158,7 +158,7 @@
         <mxCell id="5fpYW5fyIkX2NAXOCcLk-1" value="一次会话结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="750" y="720" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tXA9o2u6BOHgXh7AwpQy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-1" target="tXA9o2u6BOHgXh7AwpQy-5">
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-3" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-1" target="tXA9o2u6BOHgXh7AwpQy-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="470" as="targetPoint" />
           </mxGeometry>
@@ -166,7 +166,8 @@
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-1" target="pAAPuJA0eshOeonT42YV-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="520" />
+              <mxPoint x="250" y="520" />
+              <mxPoint x="250" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
