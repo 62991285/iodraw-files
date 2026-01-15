@@ -163,7 +163,7 @@
         <mxCell id="5fpYW5fyIkX2NAXOCcLk-1" value="一次会话结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="748.5" y="570" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tXA9o2u6BOHgXh7AwpQy-1" value="是否需要开处方？（小程序直接获取医生诊断结果）" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-1" value="处方是否含高风险特征" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="410" width="157" height="120" as="geometry" />
         </mxCell>
       </root>
