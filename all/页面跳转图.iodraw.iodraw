@@ -147,7 +147,7 @@
           <mxGeometry x="930" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-63" value="跳转&lt;u&gt;#04院内导航，导航至药房&lt;/u&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -174,23 +174,13 @@
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-5" value="推荐药学门诊" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tXA9o2u6BOHgXh7AwpQy-10" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-6" target="tXA9o2u6BOHgXh7AwpQy-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tXA9o2u6BOHgXh7AwpQy-10" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tXA9o2u6BOHgXh7AwpQy-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="590.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-6" value="患者是否接收建议" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="530" width="157" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="tXA9o2u6BOHgXh7AwpQy-9" value="推荐药学门诊" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXA9o2u6BOHgXh7AwpQy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-63" target="pAAPuJA0eshOeonT42YV-63">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="670" />
-              <mxPoint x="740" y="670" />
-              <mxPoint x="740" y="680" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
