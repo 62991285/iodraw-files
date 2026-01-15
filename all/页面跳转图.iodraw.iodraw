@@ -141,16 +141,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-59" value="是否需要院内导航" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270" y="530" width="157" height="120" as="geometry" />
+          <mxGeometry x="280" y="585" width="157" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-61" target="pAAPuJA0eshOeonT42YV-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-61" value="病人到达药房，完成缴费" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="930" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-63" value="跳转&lt;u&gt;#04院内导航，导航至药房&lt;/u&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="615" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAAPuJA0eshOeonT42YV-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pAAPuJA0eshOeonT42YV-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -183,7 +183,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tXA9o2u6BOHgXh7AwpQy-6" value="患者是否接收建议" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="530" width="157" height="120" as="geometry" />
+          <mxGeometry x="10" y="585" width="157" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
